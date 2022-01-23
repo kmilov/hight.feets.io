@@ -1,5 +1,6 @@
 +++
 +++
+
 This document shows the difference between Arrays and link lists.
 
 when we create arrays we ensure that the data is next to each other
